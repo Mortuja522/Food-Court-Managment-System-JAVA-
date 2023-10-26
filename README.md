@@ -1,38 +1,33 @@
 # Food Court Management System
 
-Food Court Management System is a web-based application designed to manage all the food products sold in a single place. This system is built for a single user, the admin, who has the authority to add sell reports of customers, add products, add companies, and perform other administrative tasks.
-
-## Table of Contents
-
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+Food Court Management System is a Java-based application designed to manage food products in a single location, such as a food court. The primary user of this application is the Admin, who has the authority to perform various administrative tasks.
 
 ## Features
 
-- **Product Management:** Admin can add, edit, or delete food products, including their names, prices, and descriptions.
-- **Company Management:** Admin can manage the companies that supply products to the food court.
-- **Sell Reports:** Keep track of customer sell reports, including the products purchased and the corresponding sales data.
-- **User-Friendly Interface:** An intuitive and user-friendly interface for efficient management of the food court.
+- **Admin Dashboard**: Provides a secure and user-friendly dashboard for the admin to manage food products and sales reports.
+
+- **Product Management**: Add, update, and delete food products, including details such as name, price, and description.
+
+- **Company Management**: Manage the companies or vendors supplying food products to the food court.
+
+- **Sales Reports**: Track and view reports of customer purchases and revenue generated.
+
+- **User Authentication**: Implement user authentication to ensure the system's security and integrity.
+
+## Technologies Used
+
+- Java
+- [Add any additional technologies or libraries used]
 
 ## Getting Started
 
 ### Prerequisites
 
-Before you begin, ensure you have met the following requirements:
-
-- Your environment should have a compatible web server (e.g., Apache, Nginx).
-- You'll need a compatible database system (e.g., MySQL, PostgreSQL).
-- Ensure you have PHP installed, and your server supports PHP.
-- Make sure you have a modern web browser for the best user experience.
+- [List any prerequisites or dependencies, if applicable]
 
 ### Installation
 
-1. Clone the repository to your local machine:
+1. Clone the repository:
 
-```bash
-git clone https://github.com/yourusername/Food-Court-Management-System.git
+   ```bash
+   git clone https://github.com/your-username/Food-Court-Management-System.git
