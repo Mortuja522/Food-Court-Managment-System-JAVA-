@@ -20,10 +20,6 @@ Food Court Management System is a Java-based application designed to manage food
 
 ## Getting Started
 
-## Usage
-
-To run the Food Court Management System, follow these steps:
-
 ### Prerequisites
 
 Before you begin, make sure you have the following prerequisites installed on your system:
