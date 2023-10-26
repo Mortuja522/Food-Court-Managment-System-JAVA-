@@ -17,17 +17,23 @@ Food Court Management System is a Java-based application designed to manage food
 ## Technologies Used
 
 - Java
-- [Add any additional technologies or libraries used]
 
 ## Getting Started
 
+## Usage
+
+To run the Food Court Management System, follow these steps:
+
 ### Prerequisites
 
-- [List any prerequisites or dependencies, if applicable]
+Before you begin, make sure you have the following prerequisites installed on your system:
 
-### Installation
+- Java Development Kit (JDK)
+
+### Running the Application
 
 1. Clone the repository:
 
    ```bash
    git clone https://github.com/Mortuja522/Object-Oriented-Programming-1-JAVA-.git
+
