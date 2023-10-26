@@ -30,4 +30,4 @@ Food Court Management System is a Java-based application designed to manage food
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Food-Court-Management-System.git
+   git clone https://github.com/Mortuja522/Object-Oriented-Programming-1-JAVA-.git
